@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'DirectionalDiscrepancy',     
   packages = ['DirectionalDiscrepancy'],
-  version = '1.0',
+  version = '1.1',
   license='MIT',
   description = 'Directional Discrepancy algorithm',
   author = 'Milad Bakhshizadeh, Mina Latifi, Ali Kamalinejad',
