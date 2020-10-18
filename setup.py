@@ -8,7 +8,7 @@ setup(
   author = 'Milad Bakhshizadeh, Mina Latifi, Ali Kamalinejad',
   author_email = 'mb4041@columbia.edu, minlat1375@gmail.com, kamalinejad.a@ut.ac.ir',
   url = 'https://github.com/minalatifi/DirectionalDiscrepancy',
-  download_url = 'https://github.com/minalatifi/DirectionalDiscrepancy/archive/v1.0.tar.gz',
+  download_url = 'https://github.com/minalatifi/DirectionalDiscrepancy/archive/v1.1.tar.gz',
   keywords = ['Discrepancy', 'Cap Discerpancy', 'Directional Discrepancy', 'Polar Coordinates'],
   install_requires=[
           'mpmath',
