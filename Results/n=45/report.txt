@@ -1,0 +1,10 @@
+This run aimed to show the discrepancy is less than 0.017503210226638366
+in the range 0 <= phi <= 1.5445904320410897 and 
+0 <= theta <= 3.141592653589793.
+There were 2236 points on the sphere.
+It has successfully proved the upper bound. 
+It starts at Thu Sep 10 13:14:34 2020 and ends at Thu Sep 10 13:18:46 2020.  Run time is 4.21 minutes. The first round run time is 3.26 minutes, and the cover cap run time is 0.95 minutes.
+It has covered the semi-sphere with 7699 directions in 61 orbits.
+The max directional discrepancy found is 0.017503210226638366 which happens at direction [0. 0. 1.]
+498 directions needed to be cover by cover cap.
+Points where on a shpere with radius 1.0.
