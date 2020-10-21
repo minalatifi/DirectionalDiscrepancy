@@ -107,5 +107,8 @@ for i in range(a,b):
     # Check YOUR_RESULT_FOLDER 
 ```
 
+## Credits
+Milad Bakhshizadeh, Ali Kamalinejad, Mina Latifi
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
